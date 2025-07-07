@@ -3,7 +3,7 @@ public class HolaMundo {
 
 	 public static void main (String [] args ) {
 		
-		 System.out.println("Hola Mundo  vGestafe"); 
+		 System.out.println("Hola Mundo  Gestafe"); 
 		 
 		 //comentarios en linea
 		 //Declarar una variable
