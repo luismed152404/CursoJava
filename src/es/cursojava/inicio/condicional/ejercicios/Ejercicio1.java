@@ -33,4 +33,4 @@ public class Ejercicio1 {
 			//System.out.println("El numero " + numero + " es par");
 		}
 	}
-}
+
